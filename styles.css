@@ -1,0 +1,32 @@
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/530/877/original/vector-abstract-seamless-pattern-geometric-form-watercolor-background.jpg);
+    color: rgb(71, 67, 67);
+}
+
+div {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(71, 67, 67);
+    background-color: lightpink;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+}
+
+li {
+    font-size: large;
+}
+ol {
+    font-size: large;
+}
+ul {
+    font-size: large;
+}
+
+
+
+
